@@ -1,0 +1,5 @@
+depend: [MafanaMiniGameApi]
+name: WizzardDuels
+version: '${project.version}'
+main: me.TahaCheji.Main
+api-version: 1.18
